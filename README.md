@@ -24,7 +24,7 @@ A passionate **BSIT Graduate** from Quezon City University with a strong foundat
 
 ### 🚀 Key Projects
 
-#### **[AGREEMO: Solar-Powered Hydroponic Greenhouse App](https://tirojulitoiii-portfolio.onrender.com)**
+#### **[AGREEMO: Solar-Powered Hydroponic Greenhouse App]**
 * **Role:** Project Manager / Backend Programmer *(Capstone Project | Aug 2024 - May 2025)*
 * Full-stack Android and web platform integrating IoT hardware, solar power tracking, and AI-driven automated monitoring for sustainable urban and rural farming.
 * Led a cross-functional team of 16 members across software, hardware, and research tracks to deliver a working prototype.
