@@ -30,12 +30,12 @@ A passionate **BSIT Graduate** from Quezon City University with a strong foundat
 * Led a cross-functional team of 16 members across software, hardware, and research tracks to deliver a working prototype.
 
 #### **Busy Hands Management System**
-* **Role:** Project Manager / Full-Stack Programmer *(Feb 2024 - May 2024)*
+* **Role:** Project Manager / Backend Programmer *(Feb 2024 - May 2024)*
 * Built an enterprise management platform featuring 5 core modules: task scheduling, client records, payroll, reporting, and inventory.
 * Coordinated a class project team of 40+ students to deliver a system capable of handling hundreds of daily business transactions.
 
 #### **Desktop School Management System**
-* **Role:** Project Manager / Full-Stack Programmer *(Feb 2024 - May 2024)*
+* **Role:** Project Manager / Backend Programmer *(Feb 2024 - May 2024)*
 * Developed a centralized desktop application using VB.NET and MySQL to streamline student records, grading, and administrative reporting.
 
 ---
