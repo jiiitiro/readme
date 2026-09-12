@@ -42,7 +42,7 @@ A passionate **BSIT Graduate** from Quezon City University with a strong foundat
 
 ### 📜 Certifications
 
-* **Java Programming NCIII - CIIC
+* Java Programming NCIII - CIIC
 * **Master Java, Spring 6, Spring Boot 3, Spring JPA, Security, Spring AI, Docker & Microservices** – Telusko (Udemy)
 * **Mastering REST API with FastAPI** – Udemy
 * **REST API with Flask and Python** – Udemy
